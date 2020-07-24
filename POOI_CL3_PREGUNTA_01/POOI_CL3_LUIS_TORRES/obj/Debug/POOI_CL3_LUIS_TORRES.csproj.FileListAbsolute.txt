@@ -1,0 +1,12 @@
+C:\Users\formu\Desktop\Ciclo III\POO\Examen 03\POOI_CL3_PREGUNTA_01\POOI_CL3_LUIS_TORRES\bin\Debug\POOI_CL3_LUIS_TORRES.exe.config
+C:\Users\formu\Desktop\Ciclo III\POO\Examen 03\POOI_CL3_PREGUNTA_01\POOI_CL3_LUIS_TORRES\bin\Debug\POOI_CL3_LUIS_TORRES.exe
+C:\Users\formu\Desktop\Ciclo III\POO\Examen 03\POOI_CL3_PREGUNTA_01\POOI_CL3_LUIS_TORRES\bin\Debug\POOI_CL3_LUIS_TORRES.pdb
+C:\Users\formu\Desktop\Ciclo III\POO\Examen 03\POOI_CL3_PREGUNTA_01\POOI_CL3_LUIS_TORRES\obj\Debug\POOI_CL3_LUIS_TORRES.csprojAssemblyReference.cache
+C:\Users\formu\Desktop\Ciclo III\POO\Examen 03\POOI_CL3_PREGUNTA_01\POOI_CL3_LUIS_TORRES\obj\Debug\POOI_CL3_LUIS_TORRES.Form1.resources
+C:\Users\formu\Desktop\Ciclo III\POO\Examen 03\POOI_CL3_PREGUNTA_01\POOI_CL3_LUIS_TORRES\obj\Debug\POOI_CL3_LUIS_TORRES.Forms.FrmListarConductores.resources
+C:\Users\formu\Desktop\Ciclo III\POO\Examen 03\POOI_CL3_PREGUNTA_01\POOI_CL3_LUIS_TORRES\obj\Debug\POOI_CL3_LUIS_TORRES.Properties.Resources.resources
+C:\Users\formu\Desktop\Ciclo III\POO\Examen 03\POOI_CL3_PREGUNTA_01\POOI_CL3_LUIS_TORRES\obj\Debug\POOI_CL3_LUIS_TORRES.csproj.GenerateResource.cache
+C:\Users\formu\Desktop\Ciclo III\POO\Examen 03\POOI_CL3_PREGUNTA_01\POOI_CL3_LUIS_TORRES\obj\Debug\POOI_CL3_LUIS_TORRES.csproj.CoreCompileInputs.cache
+C:\Users\formu\Desktop\Ciclo III\POO\Examen 03\POOI_CL3_PREGUNTA_01\POOI_CL3_LUIS_TORRES\obj\Debug\POOI_CL3_LUIS_TORRES.exe
+C:\Users\formu\Desktop\Ciclo III\POO\Examen 03\POOI_CL3_PREGUNTA_01\POOI_CL3_LUIS_TORRES\obj\Debug\POOI_CL3_LUIS_TORRES.pdb
+C:\Users\formu\Desktop\Ciclo III\POO\Examen 03\POOI_CL3_PREGUNTA_01\POOI_CL3_LUIS_TORRES\obj\Debug\POOI_CL3_LUIS_TORRES.Forms.FrmAgregarConductor.resources
